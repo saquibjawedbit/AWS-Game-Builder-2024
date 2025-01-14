@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: port
       value: 7777
       objectReference: {fileID: 0}
+    - target: {fileID: 1100953975092391576, guid: 1a54e0beecd447146af67ffa84345fcc, type: 3}
+      propertyPath: clientUseWss
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2788383317745604324, guid: 1a54e0beecd447146af67ffa84345fcc, type: 3}
       propertyPath: networkAddress
       value: 13.200.234.250
